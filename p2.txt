@@ -1,0 +1,44 @@
+<html>
+<head>
+ 	 <title> practical 2 </title>
+      </head>
+     <body>
+              <h2> ayush bansod - CS24006 </h2> 
+              <h3 ><u> practical-1 </u></h3>
+              <h2> List of programming language . </h2>
+              <ol>
+                <li> C</li>
+                <li> C++</li>
+                <li> Java</li>
+                <li> Python</li>
+                <li>Javascript</li>
+              </ol>
+              <hr>
+              <h2>list car name</h2>
+              <ul>
+                <li>Alto</li>
+                <li>Nano</li>
+                <li>Fiat</li>
+                <li>Mercedes</li>
+                <li>innovo</li>
+              </ul>
+              <hr>
+              <h4>list of language </h4>
+              <dl>
+                <dt>
+                    <dd>C</dd>
+                    <dd>C++</dd>
+                    <dd>HTML</dd>
+                    <dd>java</dd>
+                </dt>
+            <h4>list of car</h4>
+                <dt>
+                    <dd>Alto</dd>
+                    <dd>nano</dd>
+                    <dd>tata</dd>
+                    <dd>jeep</dd>
+                </dt>
+              </dl>
+              <a href="red_p2.html"> colour in red</a>
+       </body>
+ </html>
